@@ -13,7 +13,7 @@ void main() {
         child: Image(image: AssetImage("images/begger-removebg-preview.png"),
         ),
       ),
-      backgroundColor: Colors.green,
+      backgroundColor: Colors.teal,
       ),
     )
   );
